@@ -1,11 +1,11 @@
-# `@yzm-cli2/core1`
+# `index`
 
 > TODO: description
 
 ## Usage
 
 ```
-const core1 = require('@yzm-cli2/core1');
+const index = require('index');
 
 // TODO: DEMONSTRATE API
 ```

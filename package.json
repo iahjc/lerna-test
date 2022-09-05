@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/iahjc/lerna-test#readme",
   "workspaces": [
-    "packages/*"
+    "core/*"
   ],
   "devDependencies": {
     "lerna": "^5.5.0"
