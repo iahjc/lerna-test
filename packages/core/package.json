@@ -1,6 +1,6 @@
 {
   "name": "@yzm-cli/core2",
-  "version": "0.0.4",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "alines <hanruigang@163.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
-  "gitHead": "9ff66173dbf4105aa993c5641be2d21957ddc471"
+  "gitHead": "4f47feeb23dcc47058c0621520d0ff7a55abd07e"
 }
