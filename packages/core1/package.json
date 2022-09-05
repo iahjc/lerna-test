@@ -1,0 +1,32 @@
+{
+  "name": "@yzm-cli2/core1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "alines <hanruigang@163.com>",
+  "homepage": "https://github.com/iahjc/lerna-test/tree/main/packages/core1#readme",
+  "license": "ISC",
+  "main": "lib/core1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "bin": {
+    "yzm-cli-02": "lib/index.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iahjc/lerna-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@yzm-cli2/core1.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/iahjc/lerna-test/issues"
+  }
+}
